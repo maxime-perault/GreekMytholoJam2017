@@ -78,3 +78,6 @@ DerivedDataCache/*
 
 # Developers test files
 Content/Developers/*
+
+# Plugins
+/Plugins
