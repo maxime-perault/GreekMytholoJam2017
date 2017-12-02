@@ -81,3 +81,11 @@ Content/Developers/*
 
 # Plugins
 /Plugins
+
+#Intermediate and save
+Intermediate/CachedAssetRegistry.bin
+Saved/AutoScreenshot.png
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Logs/GreekMytholoJam2017.log
+Saved
+Intermediate
