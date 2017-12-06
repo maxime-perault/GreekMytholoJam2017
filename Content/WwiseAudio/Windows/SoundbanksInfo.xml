@@ -40,11 +40,9 @@
 				<Event Id="2649878690" Name="Play_sound_obstacle_door_opens" ObjectPath="\Events\Default Work Unit\Play_sound_obstacle_door_opens"/>
 				<Event Id="3644606747" Name="Play_sound_pressure" ObjectPath="\Events\Default Work Unit\Play_sound_pressure"/>
 				<Event Id="350688691" Name="Play_sound_pressure2" ObjectPath="\Events\Default Work Unit\Play_sound_pressure2"/>
-				<Event Id="1375640813" Name="Play_sound_statue_crying" ObjectPath="\Events\Default Work Unit\Play_sound_statue_crying"/>
 				<Event Id="1445321475" Name="Play_sound_stonewall_obstacle" ObjectPath="\Events\Default Work Unit\Play_sound_stonewall_obstacle"/>
 				<Event Id="2694301067" Name="Play_sound_stonewall_obstacle2" ObjectPath="\Events\Default Work Unit\Play_sound_stonewall_obstacle2"/>
 				<Event Id="3239440368" Name="Play_sound_successfull" ObjectPath="\Events\Default Work Unit\Play_sound_successfull"/>
-				<Event Id="73143491" Name="Play_UI_menu1" ObjectPath="\Events\Default Work Unit\Play_UI_menu1"/>
 				<Event Id="73143488" Name="Play_UI_menu2" ObjectPath="\Events\Default Work Unit\Play_UI_menu2"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
@@ -76,10 +74,6 @@
 					<ShortName>Cerbere\environnement_cerberus1.wav</ShortName>
 					<Path>SFX\Cerbere\environnement_cerberus1_1C9C67B2.wem</Path>
 				</File>
-				<File Id="138500780" Language="SFX">
-					<ShortName>sound_statue_crying.wav</ShortName>
-					<Path>SFX\sound_statue_crying_1C9C67B2.wem</Path>
-				</File>
 				<File Id="159123529" Language="SFX">
 					<ShortName>Footstep\Temple\Temple_03.wav</ShortName>
 					<Path>SFX\Footstep\Temple\Temple_03_1C9C67B2.wem</Path>
@@ -102,7 +96,7 @@
 				</File>
 				<File Id="195286079" Language="SFX">
 					<ShortName>sound_cerberus.wav</ShortName>
-					<Path>SFX\sound_cerberus_1C9C67B2.wem</Path>
+					<Path>SFX\sound_cerberus_F17FB28C.wem</Path>
 				</File>
 				<File Id="266016196" Language="SFX">
 					<ShortName>CrackTree\environnement_garden_1.7.wav</ShortName>
@@ -199,10 +193,6 @@
 				<File Id="725418913" Language="SFX">
 					<ShortName>sound_dead_activated2.wav</ShortName>
 					<Path>SFX\sound_dead_activated2_1C9C67B2.wem</Path>
-				</File>
-				<File Id="735201056" Language="SFX">
-					<ShortName>UI_menu1.wav</ShortName>
-					<Path>SFX\UI_menu1_1C9C67B2.wem</Path>
 				</File>
 				<File Id="754407025" Language="SFX">
 					<ShortName>RockSlide\rock_slide_1.4.wav</ShortName>

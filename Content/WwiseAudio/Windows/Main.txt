@@ -1,6 +1,5 @@
 Event	ID	Name			Wwise Object Path	Notes
 	73143488	Play_UI_menu2			\Default Work Unit\Play_UI_menu2	
-	73143491	Play_UI_menu1			\Default Work Unit\Play_UI_menu1	
 	108872734	Play_environnement_wind_weak			\Default Work Unit\Play_environnement_wind_weak	
 	206604511	Play_sign_singing_mode			\Default Work Unit\Play_sign_singing_mode	
 	350688691	Play_sound_pressure2			\Default Work Unit\Play_sound_pressure2	
@@ -8,7 +7,6 @@ Event	ID	Name			Wwise Object Path	Notes
 	1147069149	Play_sound_blossoming_tree_2			\Default Work Unit\Play_sound_blossoming_tree_2	
 	1147069150	Play_sound_blossoming_tree_1			\Default Work Unit\Play_sound_blossoming_tree_1	
 	1334142045	Play_Enigme_1			\Default Work Unit\Play_Enigme_1	
-	1375640813	Play_sound_statue_crying			\Default Work Unit\Play_sound_statue_crying	
 	1445321475	Play_sound_stonewall_obstacle			\Default Work Unit\Play_sound_stonewall_obstacle	
 	1894362767	Foot_Player			\Default Work Unit\Foot_Player	
 	2438710736	Play_sound_dead_activated			\Default Work Unit\Play_sound_dead_activated	
@@ -41,13 +39,12 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	111137899	Terre_03	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\Footstep\Terre\Terre_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitages\Footstep\Terre\Terre_03		48216
 	125428559	Temple_02	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\Footstep\Temple\Temple_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitages\Footstep\Temple\Temple_02		53668
 	136936485	environnement_cerberus1	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\Cerbere\environnement_cerberus1_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Cerbere\environnement_cerberus1		1764064
-	138500780	sound_statue_crying	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\sound_statue_crying_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitages\sound_statue_crying		1323064
 	159123529	Temple_03	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\Footstep\Temple\Temple_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitages\Footstep\Temple\Temple_03		58540
 	162006842	UI_menu2	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\UI_menu2_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu\UI_menu2		529264
 	179301143	ambiance_ruins	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\ambiance_ruins_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Ruines\AmbianceRuines\ambiance_ruins		26636976
 	186546997	sound_pressure2	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\sound_pressure2_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitages\sound_pressure2		338284
 	188953736	environnement_cerberus4	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\Cerbere\environnement_cerberus4_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Cerbere\environnement_cerberus4		1058464
-	195286079	sound_cerberus	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\sound_cerberus_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\sound_cerberus		2116864
+	195286079	sound_cerberus	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\sound_cerberus_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\sound_cerberus		2116864
 	266016196	environnement_garden_1_7	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\CrackTree\environnement_garden_1.7_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\CrackTree\environnement_garden_1_7		208348
 	297862737	environnement_garden_1_10	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\CrackTree\environnement_garden_1.10_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\CrackTree\environnement_garden_1_10		727520
 	300120076	Temple_01	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\Footstep\Temple\Temple_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitages\Footstep\Temple\Temple_01		37506
@@ -72,7 +69,6 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	622737758	environnement_garden_1_15	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\CrackTree\environnement_garden_1.15_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\CrackTree\environnement_garden_1_15		83560
 	721457295	sound_blossoming_tree_2	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\sound_blossoming_tree2_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitages\sound_blossoming_tree_2		1940464
 	725418913	sound_dead_activated	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\sound_dead_activated2_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitages\sound_dead_activated		3073384
-	735201056	UI_menu1	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\UI_menu1_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu\UI_menu1		176464
 	754407025	rock_slide_1_4	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\RockSlide\rock_slide_1.4_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\RockSlide\rock_slide_1_4		253974
 	759961919	environnement_garden_1_8	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\CrackTree\environnement_garden_1.8_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\CrackTree\environnement_garden_1_8		417124
 	798447051	rock_slide_1_2	C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\SFX\RockSlide\rock_slide_1.2_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\RockSlide\rock_slide_1_2		255146
