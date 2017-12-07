@@ -29,6 +29,8 @@
 				<Event Id="467546177" Name="Play_environnement_running_stream" ObjectPath="\Events\Default Work Unit\Play_environnement_running_stream"/>
 				<Event Id="3427644767" Name="Play_environnement_wind_strong" ObjectPath="\Events\Default Work Unit\Play_environnement_wind_strong"/>
 				<Event Id="108872734" Name="Play_environnement_wind_weak" ObjectPath="\Events\Default Work Unit\Play_environnement_wind_weak"/>
+				<Event Id="3015324718" Name="Play_Fire" ObjectPath="\Events\Default Work Unit\Play_Fire"/>
+				<Event Id="2991955690" Name="Play_Fog" ObjectPath="\Events\Default Work Unit\Play_Fog"/>
 				<Event Id="4289292640" Name="Play_RockSlide" ObjectPath="\Events\Default Work Unit\Play_RockSlide"/>
 				<Event Id="206604511" Name="Play_sign_singing_mode" ObjectPath="\Events\Default Work Unit\Play_sign_singing_mode"/>
 				<Event Id="1147069150" Name="Play_sound_blossoming_tree_1" ObjectPath="\Events\Default Work Unit\Play_sound_blossoming_tree_1"/>
@@ -36,19 +38,25 @@
 				<Event Id="3164171627" Name="Play_sound_cerberus" ObjectPath="\Events\Default Work Unit\Play_sound_cerberus"/>
 				<Event Id="2438710736" Name="Play_sound_dead_activated" ObjectPath="\Events\Default Work Unit\Play_sound_dead_activated"/>
 				<Event Id="3823516146" Name="Play_sound_dead_disactivated" ObjectPath="\Events\Default Work Unit\Play_sound_dead_disactivated"/>
+				<Event Id="1289837538" Name="Play_sound_depressure" ObjectPath="\Events\Default Work Unit\Play_sound_depressure"/>
 				<Event Id="3457541365" Name="Play_sound_failed" ObjectPath="\Events\Default Work Unit\Play_sound_failed"/>
 				<Event Id="2649878690" Name="Play_sound_obstacle_door_opens" ObjectPath="\Events\Default Work Unit\Play_sound_obstacle_door_opens"/>
 				<Event Id="3644606747" Name="Play_sound_pressure" ObjectPath="\Events\Default Work Unit\Play_sound_pressure"/>
 				<Event Id="350688691" Name="Play_sound_pressure2" ObjectPath="\Events\Default Work Unit\Play_sound_pressure2"/>
+				<Event Id="1375640813" Name="Play_sound_statue_crying" ObjectPath="\Events\Default Work Unit\Play_sound_statue_crying"/>
 				<Event Id="1445321475" Name="Play_sound_stonewall_obstacle" ObjectPath="\Events\Default Work Unit\Play_sound_stonewall_obstacle"/>
 				<Event Id="2694301067" Name="Play_sound_stonewall_obstacle2" ObjectPath="\Events\Default Work Unit\Play_sound_stonewall_obstacle2"/>
 				<Event Id="3239440368" Name="Play_sound_successfull" ObjectPath="\Events\Default Work Unit\Play_sound_successfull"/>
+				<Event Id="73143491" Name="Play_UI_menu1" ObjectPath="\Events\Default Work Unit\Play_UI_menu1"/>
 				<Event Id="73143488" Name="Play_UI_menu2" ObjectPath="\Events\Default Work Unit\Play_UI_menu2"/>
+				<Event Id="105882207" Name="Stop_environnement_running_stream" ObjectPath="\Events\Default Work Unit\Stop_environnement_running_stream"/>
+				<Event Id="3323577401" Name="Stop_environnement_wind_strong" ObjectPath="\Events\Default Work Unit\Stop_environnement_wind_strong"/>
+				<Event Id="289877700" Name="Stop_environnement_wind_weak" ObjectPath="\Events\Default Work Unit\Stop_environnement_wind_weak"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="12872176" Language="SFX">
-					<ShortName>RockSlide\rock_slide_1.5.wav</ShortName>
-					<Path>SFX\RockSlide\rock_slide_1.5_1C9C67B2.wem</Path>
+				<File Id="55384413" Language="SFX">
+					<ShortName>sound_pressure.wav</ShortName>
+					<Path>SFX\sound_pressure_1C9C67B2.wem</Path>
 				</File>
 				<File Id="77083472" Language="SFX">
 					<ShortName>RockSlide\rock_slide_1.1.wav</ShortName>
@@ -58,9 +66,9 @@
 					<ShortName>music_menu2.wav</ShortName>
 					<Path>SFX\music_menu2_F17FB28C.wem</Path>
 				</File>
-				<File Id="97220602" Language="SFX">
-					<ShortName>CrackTree\environnement_garden_1.14.wav</ShortName>
-					<Path>SFX\CrackTree\environnement_garden_1.14_1C9C67B2.wem</Path>
+				<File Id="91593671" Language="SFX">
+					<ShortName>silence.wav</ShortName>
+					<Path>SFX\silence_1C9C67B2.wem</Path>
 				</File>
 				<File Id="111137899" Language="SFX">
 					<ShortName>Footstep\Terre\Terre_03.wav</ShortName>
@@ -74,6 +82,10 @@
 					<ShortName>Cerbere\environnement_cerberus1.wav</ShortName>
 					<Path>SFX\Cerbere\environnement_cerberus1_1C9C67B2.wem</Path>
 				</File>
+				<File Id="151575323" Language="SFX">
+					<ShortName>note_4_ré.wav</ShortName>
+					<Path>SFX\note_4_ré_24370BBD.wem</Path>
+				</File>
 				<File Id="159123529" Language="SFX">
 					<ShortName>Footstep\Temple\Temple_03.wav</ShortName>
 					<Path>SFX\Footstep\Temple\Temple_03_1C9C67B2.wem</Path>
@@ -81,6 +93,10 @@
 				<File Id="162006842" Language="SFX">
 					<ShortName>UI_menu2.wav</ShortName>
 					<Path>SFX\UI_menu2_1C9C67B2.wem</Path>
+				</File>
+				<File Id="169280318" Language="SFX">
+					<ShortName>Fog.wav</ShortName>
+					<Path>SFX\Fog_1C9C67B2.wem</Path>
 				</File>
 				<File Id="179301143" Language="SFX">
 					<ShortName>ambiance_ruins.wav</ShortName>
@@ -94,6 +110,10 @@
 					<ShortName>Cerbere\environnement_cerberus4.wav</ShortName>
 					<Path>SFX\Cerbere\environnement_cerberus4_1C9C67B2.wem</Path>
 				</File>
+				<File Id="195009776" Language="SFX">
+					<ShortName>Fire.wav</ShortName>
+					<Path>SFX\Fire_F17FB28C.wem</Path>
+				</File>
 				<File Id="195286079" Language="SFX">
 					<ShortName>sound_cerberus.wav</ShortName>
 					<Path>SFX\sound_cerberus_F17FB28C.wem</Path>
@@ -101,6 +121,14 @@
 				<File Id="266016196" Language="SFX">
 					<ShortName>CrackTree\environnement_garden_1.7.wav</ShortName>
 					<Path>SFX\CrackTree\environnement_garden_1.7_1C9C67B2.wem</Path>
+				</File>
+				<File Id="268803620" Language="SFX">
+					<ShortName>sound_statue_crying2.wav</ShortName>
+					<Path>SFX\sound_statue_crying2_1C9C67B2.wem</Path>
+				</File>
+				<File Id="295873265" Language="SFX">
+					<ShortName>note_3_mi.wav</ShortName>
+					<Path>SFX\note_3_mi_9F34FB3D.wem</Path>
 				</File>
 				<File Id="297862737" Language="SFX">
 					<ShortName>CrackTree\environnement_garden_1.10.wav</ShortName>
@@ -113,10 +141,6 @@
 				<File Id="311027259" Language="SFX">
 					<ShortName>Footstep\Terre\Terre_02.wav</ShortName>
 					<Path>SFX\Footstep\Terre\Terre_02_1C9C67B2.wem</Path>
-				</File>
-				<File Id="313784180" Language="SFX">
-					<ShortName>RockSlide\rock_slide_1.3.wav</ShortName>
-					<Path>SFX\RockSlide\rock_slide_1.3_1C9C67B2.wem</Path>
 				</File>
 				<File Id="339260376" Language="SFX">
 					<ShortName>Footstep\Pierre\Pierre_03.wav</ShortName>
@@ -150,6 +174,10 @@
 					<ShortName>Footstep\Pierre\Pierre_01.wav</ShortName>
 					<Path>SFX\Footstep\Pierre\Pierre_01_1C9C67B2.wem</Path>
 				</File>
+				<File Id="466156286" Language="SFX">
+					<ShortName>note_2_sol.wav</ShortName>
+					<Path>SFX\note_2_sol_3B4CE099.wem</Path>
+				</File>
 				<File Id="479082348" Language="SFX">
 					<ShortName>Footstep\Terre\Terre_01.wav</ShortName>
 					<Path>SFX\Footstep\Terre\Terre_01_1C9C67B2.wem</Path>
@@ -158,21 +186,9 @@
 					<ShortName>Cerbere\environnement_cerberus2.wav</ShortName>
 					<Path>SFX\Cerbere\environnement_cerberus2_1C9C67B2.wem</Path>
 				</File>
-				<File Id="482285619" Language="SFX">
-					<ShortName>CrackTree\environnement_garden_1.3.wav</ShortName>
-					<Path>SFX\CrackTree\environnement_garden_1.3_1C9C67B2.wem</Path>
-				</File>
 				<File Id="488828062" Language="SFX">
 					<ShortName>sound_obstacle_door_opens.wav</ShortName>
 					<Path>SFX\sound_obstacle_door_opens_1C9C67B2.wem</Path>
-				</File>
-				<File Id="522057490" Language="SFX">
-					<ShortName>CrackTree\environnement_garden_1.13.wav</ShortName>
-					<Path>SFX\CrackTree\environnement_garden_1.13_1C9C67B2.wem</Path>
-				</File>
-				<File Id="523592345" Language="SFX">
-					<ShortName>sound_pressure.wav</ShortName>
-					<Path>SFX\sound_pressure_1C9C67B2.wem</Path>
 				</File>
 				<File Id="584511017" Language="SFX">
 					<ShortName>environnement_wind_weak.wav</ShortName>
@@ -198,9 +214,9 @@
 					<ShortName>RockSlide\rock_slide_1.4.wav</ShortName>
 					<Path>SFX\RockSlide\rock_slide_1.4_1C9C67B2.wem</Path>
 				</File>
-				<File Id="759961919" Language="SFX">
-					<ShortName>CrackTree\environnement_garden_1.8.wav</ShortName>
-					<Path>SFX\CrackTree\environnement_garden_1.8_1C9C67B2.wem</Path>
+				<File Id="768914571" Language="SFX">
+					<ShortName>UI_menu3.wav</ShortName>
+					<Path>SFX\UI_menu3_1C9C67B2.wem</Path>
 				</File>
 				<File Id="798447051" Language="SFX">
 					<ShortName>RockSlide\rock_slide_1.2.wav</ShortName>
@@ -222,6 +238,10 @@
 					<ShortName>sign_singing_mode2.wav</ShortName>
 					<Path>SFX\sign_singing_mode2_1C9C67B2.wem</Path>
 				</File>
+				<File Id="830790261" Language="SFX">
+					<ShortName>note_1_si.wav</ShortName>
+					<Path>SFX\note_1_si_553930E6.wem</Path>
+				</File>
 				<File Id="871784469" Language="SFX">
 					<ShortName>sound_stonewall_obstacle.wav</ShortName>
 					<Path>SFX\sound_stonewall_obstacle_1C9C67B2.wem</Path>
@@ -229,10 +249,6 @@
 				<File Id="876319757" Language="SFX">
 					<ShortName>CrackTree\environnement_garden_1.2.wav</ShortName>
 					<Path>SFX\CrackTree\environnement_garden_1.2_1C9C67B2.wem</Path>
-				</File>
-				<File Id="884049548" Language="SFX">
-					<ShortName>CrackTree\environnement_garden_1.4.wav</ShortName>
-					<Path>SFX\CrackTree\environnement_garden_1.4_1C9C67B2.wem</Path>
 				</File>
 				<File Id="907266522" Language="SFX">
 					<ShortName>CrackTree\environnement_garden_1.17.wav</ShortName>
@@ -257,6 +273,10 @@
 				<File Id="999963735" Language="SFX">
 					<ShortName>Footstep\Terre\Terre_04.wav</ShortName>
 					<Path>SFX\Footstep\Terre\Terre_04_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1013329630" Language="SFX">
+					<ShortName>sound_depressure.wav</ShortName>
+					<Path>SFX\sound_depressure_1C9C67B2.wem</Path>
 				</File>
 				<File Id="1014510556" Language="SFX">
 					<ShortName>CrackTree\environnement_garden_1.1.wav</ShortName>
