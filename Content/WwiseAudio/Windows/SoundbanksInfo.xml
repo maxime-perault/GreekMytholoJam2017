@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="125">
 	<RootPaths>
-		<ProjectRoot>C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\PC-VR5\Documents\Unreal Projects\GreekMytholoJam2017\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ProjectRoot>D:\GIT-PROJECT\WWISEMytholojam\</ProjectRoot>
+		<SourceFilesRoot>D:\GIT-PROJECT\WWISEMytholojam\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\GIT-PROJECT\GreekMytholoJam2017\Content\WwiseAudio\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\PC-VR5\Documents\Unreal Projects\WWISEMytholojam\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>D:\GIT-PROJECT\WWISEMytholojam\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
