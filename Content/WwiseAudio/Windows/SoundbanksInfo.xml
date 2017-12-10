@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="125">
 	<RootPaths>
-		<ProjectRoot>C:\Users\Carbonara\Desktop\GIT-Projects\WWISEMytholojam\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\Carbonara\Desktop\GIT-Projects\WWISEMytholojam\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\Carbonara\Desktop\GIT-Projects\GreekMytholoJam2017\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ProjectRoot>D:\Documents\Programmation\Unreal Projects\WWISEMytholojam\</ProjectRoot>
+		<SourceFilesRoot>D:\Documents\Programmation\Unreal Projects\WWISEMytholojam\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Documents\Programmation\Unreal Projects\GreekMytholoJam2017\Content\WwiseAudio\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\Carbonara\Desktop\GIT-Projects\WWISEMytholojam\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>D:\Documents\Programmation\Unreal Projects\WWISEMytholojam\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -62,6 +62,7 @@
 				<Event Id="1442883084" Name="Stop_music_jardin" ObjectPath="\Events\Default Work Unit\Stop_music_jardin"/>
 				<Event Id="106912753" Name="Stop_music_menu" ObjectPath="\Events\Default Work Unit\Stop_music_menu"/>
 				<Event Id="2817429402" Name="Stop_music_ruines" ObjectPath="\Events\Default Work Unit\Stop_music_ruines"/>
+				<Event Id="1381564259" Name="Stop_singing_mode" ObjectPath="\Events\Default Work Unit\Stop_singing_mode"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="77083472" Language="SFX">
