@@ -13,6 +13,8 @@ Event	ID	Name			Wwise Object Path	Notes
 	1375640813	Play_sound_statue_crying			\Default Work Unit\Play_sound_statue_crying	
 	1442883084	Stop_music_jardin			\Default Work Unit\Stop_music_jardin	
 	1445321475	Play_sound_stonewall_obstacle			\Default Work Unit\Play_sound_stonewall_obstacle	
+	1488509246	Play_note_2_sol			\Default Work Unit\Play_note_2_sol	
+	1571832837	Play_note_4_re			\Default Work Unit\Play_note_4_re	
 	1699343283	Play_music_menu			\Default Work Unit\Play_music_menu	
 	1894362767	Foot_Player			\Default Work Unit\Foot_Player	
 	2438710736	Play_sound_dead_activated			\Default Work Unit\Play_sound_dead_activated	
@@ -23,11 +25,13 @@ Event	ID	Name			Wwise Object Path	Notes
 	2801223638	mode_enigme_off			\Default Work Unit\mode_enigme_off	
 	2817429402	Stop_music_ruines			\Default Work Unit\Stop_music_ruines	
 	2867987008	Play_CrackTree			\Default Work Unit\Play_CrackTree	
+	2932149253	Play_note_1_si			\Default Work Unit\Play_note_1_si	
 	2991955690	Play_Fog			\Default Work Unit\Play_Fog	
 	3015324718	Play_Fire			\Default Work Unit\Play_Fire	
 	3164171627	Play_sound_cerberus			\Default Work Unit\Play_sound_cerberus	
 	3239440368	Play_sound_successfull			\Default Work Unit\Play_sound_successfull	
 	3323577401	Stop_environnement_wind_strong			\Default Work Unit\Stop_environnement_wind_strong	
+	3340047461	Play_note_3_mi			\Default Work Unit\Play_note_3_mi	
 	3427644767	Play_environnement_wind_strong			\Default Work Unit\Play_environnement_wind_strong	
 	3457541365	Play_sound_failed			\Default Work Unit\Play_sound_failed	
 	3644606747	Play_sound_pressure			\Default Work Unit\Play_sound_pressure	
@@ -51,7 +55,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	111137899	Terre_03	D:\GIT-PROJECT\WWISEMytholojam\.cache\Windows\SFX\Footstep\Terre\Terre_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitage\Footstep\Terre\Terre_03		48216
 	125428559	Temple_02	D:\GIT-PROJECT\WWISEMytholojam\.cache\Windows\SFX\Footstep\Temple\Temple_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitage\Footstep\Temple\Temple_02		53668
 	136936485	environnement_cerberus1	D:\GIT-PROJECT\WWISEMytholojam\.cache\Windows\SFX\Cerbere\environnement_cerberus1_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Cerbere\environnement_cerberus1		1764064
-	151575323	note_4_ré	D:\GIT-PROJECT\WWISEMytholojam\.cache\Windows\SFX\note_4_ré_24370BBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enigme\true\note_4_ré		882064
+	151575323	note_4_re	D:\GIT-PROJECT\WWISEMytholojam\.cache\Windows\SFX\note_4_ré_24370BBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enigme\true\note_4_re		882064
 	159123529	Temple_03	D:\GIT-PROJECT\WWISEMytholojam\.cache\Windows\SFX\Footstep\Temple\Temple_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitage\Footstep\Temple\Temple_03		58540
 	162006842	UI_menu1	D:\GIT-PROJECT\WWISEMytholojam\.cache\Windows\SFX\UI_menu2_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu\UI_menu1		529264
 	169280318	Fog	D:\GIT-PROJECT\WWISEMytholojam\.cache\Windows\SFX\Fog_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bruitage\Fog		296008

@@ -35,6 +35,10 @@
 				<Event Id="2578694398" Name="Play_music_jardin" ObjectPath="\Events\Default Work Unit\Play_music_jardin"/>
 				<Event Id="1699343283" Name="Play_music_menu" ObjectPath="\Events\Default Work Unit\Play_music_menu"/>
 				<Event Id="4038032100" Name="Play_music_ruines" ObjectPath="\Events\Default Work Unit\Play_music_ruines"/>
+				<Event Id="2932149253" Name="Play_note_1_si" ObjectPath="\Events\Default Work Unit\Play_note_1_si"/>
+				<Event Id="1488509246" Name="Play_note_2_sol" ObjectPath="\Events\Default Work Unit\Play_note_2_sol"/>
+				<Event Id="3340047461" Name="Play_note_3_mi" ObjectPath="\Events\Default Work Unit\Play_note_3_mi"/>
+				<Event Id="1571832837" Name="Play_note_4_re" ObjectPath="\Events\Default Work Unit\Play_note_4_re"/>
 				<Event Id="4289292640" Name="Play_RockSlide" ObjectPath="\Events\Default Work Unit\Play_RockSlide"/>
 				<Event Id="206604511" Name="Play_sign_singing_mode" ObjectPath="\Events\Default Work Unit\Play_sign_singing_mode"/>
 				<Event Id="1147069150" Name="Play_sound_blossoming_tree_1" ObjectPath="\Events\Default Work Unit\Play_sound_blossoming_tree_1"/>
